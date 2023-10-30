@@ -1,1 +1,2 @@
 # OOPs-MiniProject
+Develop a Java-based movie guessing game akin to hangman, offering both single-player and multiplayer modes. The game should allow players to guess the name of a randomly selected movie by revealing its characters progressively. The single-player mode involves guessing against the computer, while the multiplayer mode allows multiple participants to guess the movie name either cooperatively or competitively. The game interface should provide an interactive and engaging experience, keeping track of scores for an enjoyable gaming experience.
